@@ -1,0 +1,20 @@
+# Core Scientific Computing
+numpy
+
+# Data Handling & Analysis
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Modeling
+scikit-learn
+
+# Optional (not required now but useful later)
+# statsmodels
+# xgboost
+# lightgbm
+
+# Notebook Support
+jupyter
