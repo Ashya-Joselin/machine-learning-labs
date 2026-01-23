@@ -62,7 +62,7 @@ This lab involves the following tasks based on the provided instructions :conten
 ---
 
 ## 📦 Datasets Required
-Place the following datasets in the same folder (not included in repo):
+Place the following datasets in the same folder:
 
 - `Lab1_Tips.csv`
 - `Lab1_StudentsPerformance.csv`
@@ -78,3 +78,4 @@ From the root folder:
 ```bash
 pip install -r ../../requirements.txt
 jupyter notebook lab01_variability.ipynb
+
