@@ -1,9 +1,7 @@
-# Lab 01 — Variability & Outliers
+# Lab 01 - Variability & Outliers
 
 ## Objective
 To analyze data dispersion and identify outliers using box plots, summary statistics, and visualization techniques in Python.
-
----
 
 ## Topics Covered
 - Measures of dispersion (IQR, Quartiles, Five Point Summary)
@@ -12,8 +10,6 @@ To analyze data dispersion and identify outliers using box plots, summary statis
 - Variability across numeric features
 - Visual comparison using Seaborn & Matplotlib
 
----
-
 ## Libraries Used
 - Python
 - Pandas
@@ -21,13 +17,9 @@ To analyze data dispersion and identify outliers using box plots, summary statis
 - Matplotlib
 - Seaborn
 
----
-
 ## Files Included
 - `lab1_variability.ipynb` — Main notebook containing all code and outputs
 - `./screenshots/` — Contains graphs & visualizations generated during execution
-
----
 
 ## Tasks Overview
 
@@ -50,8 +42,6 @@ This lab involves the following tasks based on the provided instructions :conten
    - Compute summary statistics
    - Boxplot visualization
 
----
-
 ## Key Observations
 - Box plots provide an effective visual summary of central tendency and dispersion.
 - Whiskers indicate spread and potential outliers.
@@ -59,16 +49,12 @@ This lab involves the following tasks based on the provided instructions :conten
 - Different numeric fields may show different levels of variability (e.g., `total_bill` > `tip` > `size`).
 - Variability analysis helps in understanding dataset behavior before modeling.
 
----
-
 ## Datasets Required
 Place the following datasets in the same folder:
 
 - `Lab1_Tips.csv`
 - `Lab1_StudentsPerformance.csv`
 - `Lab1_Vanilla.csv`
-
----
 
 ## How to Run the Notebook
 From the root folder:
