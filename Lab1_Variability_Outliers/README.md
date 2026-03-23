@@ -1,11 +1,11 @@
 # Lab 01 — Variability & Outliers
 
-## 🎯 Objective
+## Objective
 To analyze data dispersion and identify outliers using box plots, summary statistics, and visualization techniques in Python.
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 - Measures of dispersion (IQR, Quartiles, Five Point Summary)
 - Box plots
 - Outlier detection
@@ -14,7 +14,7 @@ To analyze data dispersion and identify outliers using box plots, summary statis
 
 ---
 
-## 🛠 Libraries Used
+## Libraries Used
 - Python
 - Pandas
 - NumPy
@@ -23,13 +23,13 @@ To analyze data dispersion and identify outliers using box plots, summary statis
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `lab1_variability.ipynb` — Main notebook containing all code and outputs
 - `./screenshots/` — Contains graphs & visualizations generated during execution
 
 ---
 
-## 📊 Tasks Overview
+## Tasks Overview
 
 This lab involves the following tasks based on the provided instructions :contentReference[oaicite:1]{index=1}:
 
@@ -52,7 +52,7 @@ This lab involves the following tasks based on the provided instructions :conten
 
 ---
 
-## 📝 Key Observations
+## Key Observations
 - Box plots provide an effective visual summary of central tendency and dispersion.
 - Whiskers indicate spread and potential outliers.
 - Outliers appear as individual points beyond whiskers.
@@ -61,18 +61,16 @@ This lab involves the following tasks based on the provided instructions :conten
 
 ---
 
-## 📦 Datasets Required
+## Datasets Required
 Place the following datasets in the same folder:
 
 - `Lab1_Tips.csv`
 - `Lab1_StudentsPerformance.csv`
 - `Lab1_Vanilla.csv`
 
-If not provided, use equivalent public Kaggle datasets.
-
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 From the root folder:
 
 ```bash
